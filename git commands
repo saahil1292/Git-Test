@@ -1,0 +1,11 @@
+git init --> to initiate the git shell
+git status --> to check the status of git shell
+git add --> to add the file into staging area
+git commit -m "" --> to commit to the repo
+git diff --> to check the difference between staging and unstaging files
+git diff --staged --> to check the difference between commits and staging files
+git checkout master--> uncommit / change the branch
+git checkout -b xyz--> create a new branch and switch to it
+git branch --> to check the working branch
+git merge xyz--> merges two different versions if there is no intersecting line (Fast Forward)
+git log --> to check the log for different versions

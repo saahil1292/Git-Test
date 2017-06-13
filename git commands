@@ -13,3 +13,4 @@ ssh git@github.com --> to add the ssh pub key from git to github
 git remote add origin git@github.com:saahil1292/your-repo
 git remote remove origin --> to remove the origin of remote
 git push -u origin master --> pushes to remote origin master in github
+git clone "repo name" --> clones the reop to local machine
